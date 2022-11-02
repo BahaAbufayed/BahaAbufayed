@@ -16,12 +16,6 @@ Skills: HTML & CSS,Python ,C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/BahaAbufayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/baha-abufayed-bbb0b9138/?originalSubdomain=tr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/baha_abufayed//)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/BahaAbufayed)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/BahaAbufayed&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/BahaAbufayed)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/BahaAbufayed)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/BahaAbufayed)  
