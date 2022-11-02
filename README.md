@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahaabufayed&label=Profile%20views&color=0e75b6&style=flat" alt="bahaabufayed" /> </p>
 
-<h2 align="center">I am passionate about data and have robust data analytics, visualization, and deep learning skills.</h2>
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
