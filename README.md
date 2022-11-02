@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋, my name is BahaEdeen
+#### I am a Data Analyst/Graphic Designer 
+Hi, I'm Baha! I have a technical background and hold a bachelor's degree in Electrical engineering   (B.S.) majoring in Networking and did my graduation project in the Machin Learning sector at Süleyman Demirel Üniversitesi.
 
-<!--
-**BahaAbufayed/BahaAbufayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+now I am doing carer shifting and getting into Data Processing and Analysis field, After years of transition from Electrical engineering to Data Analysis, I'm a Data Analyst looking to a Fintech company by the End of 2022.
 
-Here are some ideas to get you started:
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML & CSS,Python ,C++
+
+- 🔭 I’m currently working on Freelancer 
+- 👯 I’m looking to collaborate on Open Source projects 
+- 💬 Ask me about Data related stuff 
+- 📫 How to reach me: bahamajed52@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/BahaAbufayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/baha-abufayed-bbb0b9138/?originalSubdomain=tr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/baha_abufayed//)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/BahaAbufayed)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/BahaAbufayed&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/BahaAbufayed)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/BahaAbufayed)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/BahaAbufayed)  
